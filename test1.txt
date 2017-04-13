@@ -1,1 +1,2 @@
-this is a test
+<<<<<<< HEAD
+this is a test qui n'a pas d'autre test
